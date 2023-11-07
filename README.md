@@ -3,3 +3,7 @@
 </p>
 
 
+<p>
+  <span style="color: #f5d6db;">연분홍색 글자</span>
+
+</p>
