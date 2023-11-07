@@ -3,4 +3,3 @@
 </p>
 
 
-<font color="#FF69B4">연분홍색 글자</font>
