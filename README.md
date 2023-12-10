@@ -1,10 +1,8 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&text=engelhyunji&color=#d8a2a8&text-color=8d5d76&height=100&fontSize=40" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&text=engelhyunji&color=#FFFF00&text-color=8d5d76&height=100&fontSize=40" alt="header" />
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&text=engelhyunji&color=#FFC0CB&text-color=8d5d76&height=100&fontSize=40" alt="header" />
-</p>
+
 
 
 
