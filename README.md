@@ -5,7 +5,7 @@
 
 <p>
 
-  <img src="https://capsule-render.vercel.app/api?type=Venom" />
+  <img src="https://capsule-render.vercel.app/api?type=Cylinder" />
 </p>
 
 ## 🔨 Once I've used 🔨
