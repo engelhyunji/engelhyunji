@@ -1,7 +1,9 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&text=engelhyunji&color=#FF69B4&text-color=8d5d76&height=100&fontSize=40" alt="header" />
 </p>
-<div></div>
+
+
+<div>
 [![bi-sz's GitHub stats](https://github-readme-stats.vercel.app/api?
 username=bi-sz&include_all_commits=true&show_icons=true&theme=cobalt)]
 (https://github.com/engelhyunji/github-readme-stats)
