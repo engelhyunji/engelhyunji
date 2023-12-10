@@ -3,11 +3,6 @@
 </p>
 
 
-<div>
-[![bi-sz's GitHub stats](https://github-readme-stats.vercel.app/api?
-username=bi-sz&include_all_commits=true&show_icons=true&theme=cobalt)]
-(https://github.com/engelhyunji/github-readme-stats)
-</div>
 
 ## 🔨 Once I've used 🔨
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
